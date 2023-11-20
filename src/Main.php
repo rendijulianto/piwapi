@@ -1,7 +1,7 @@
 <?php 
 namespace Rendijulianto\Piwapi;
 
-class Main
+class Piwapi
 {
     private $url;
     private $apikey;
