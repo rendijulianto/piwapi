@@ -1,0 +1,19 @@
+{
+    "name": "rendijulianto/piwapi",
+    "description": "Library untuk mengintegrasikan whatsapp gateway dari piwapi",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rendijulianto\\Piwapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rendijulianto",
+            "email": "rendijulianto37@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
